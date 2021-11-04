@@ -1,0 +1,62 @@
+body {
+    font-family: monospace;
+    background-color:black;
+    text-align: center;
+    color: greenyellow;
+
+}
+
+header {
+    text-align: center;
+   background-color:rgb(77, 77, 77);
+   font-family: Impact, fantasy;
+   padding: 30px 30px 30px 30px;
+}
+
+ul a {
+    padding: 10px 10px 10px 10px;
+    color: greenyellow;
+    text-align: center;
+    background-color: rgb(31, 12, 61);
+}
+
+h2 {
+    margin: 15px 15px 15px 15px;
+text-align: center;
+color: greenyellow;
+}
+ 
+table {
+    border:ridge rgb(123, 55, 163);
+}
+
+td {
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    border:ridge rgb(123, 55, 163);
+}
+
+li {
+    margin:  30px 30px 30px 30px;
+}
+
+main a {
+    
+    color: white;
+    background-color: red;
+    border: 4mm ridge red;
+
+}
+
+main table {
+    text-align: center;
+}
+
+footer {
+   
+    text-align: center;
+   background-color:rgb(77, 77, 77);
+   font-family: Impact, fantasy;
+   padding: 30px 30px 30px 30px;
+   
+}
