@@ -11,14 +11,36 @@ header {
    background-color:rgb(77, 77, 77);
    font-family: Impact, fantasy;
    padding: 30px 30px 30px 30px;
+   justify-content: center;
 }
 
-ul a {
+.menu {
     padding: 10px 10px 10px 10px;
     color: greenyellow;
-    text-align: center;
-    background-color: rgb(31, 12, 61);
+    display: flex;
+    justify-content: center;
 }
+
+
+
+.menu table {
+    border: cyan;
+    text-align: center;
+    
+}
+
+.menu table td a:hover {
+  color: orange;
+}
+
+.menu table td a {
+    color: greenyellow;
+    text-decoration: none
+}
+
+
+
+.
 
 h2 {
     margin: 15px 15px 15px 15px;
@@ -28,6 +50,8 @@ color: greenyellow;
  
 table {
     border:ridge rgb(123, 55, 163);
+    display: flex;
+    justify-content: center;
 }
 
 td {
@@ -60,3 +84,23 @@ footer {
    padding: 30px 30px 30px 30px;
    
 }
+
+footer a{
+    color: red;
+}
+
+footer a:focus{
+    color: greenyellow;
+}
+
+    footer a:visited{
+        color: navy;
+    }
+
+    footer img {
+        margin: 10px;
+    }
+     
+    footer img:hover {
+        opacity: 0.5;
+    }
