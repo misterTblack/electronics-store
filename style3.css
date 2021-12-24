@@ -1,0 +1,106 @@
+body {
+    font-family: monospace;
+    background-color:black;
+    text-align: center;
+    color: greenyellow;
+
+}
+
+header {
+    text-align: center;
+   background-color:rgb(77, 77, 77);
+   font-family: Impact, fantasy;
+   padding: 30px 30px 30px 30px;
+   justify-content: center;
+}
+
+.menu {
+    padding: 10px 10px 10px 10px;
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.menu table {
+    border: cyan;
+    text-align: center;
+    
+}
+
+.menu table td a:hover {
+  color: orange;
+}
+
+.menu table td a {
+    color: greenyellow;
+    text-decoration: none
+}
+
+
+
+.
+
+h2 {
+    margin: 15px 15px 15px 15px;
+text-align: center;
+color: greenyellow;
+}
+ 
+table {
+    border:ridge rgb(123, 55, 163);
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    border:ridge rgb(123, 55, 163);
+}
+
+li {
+    margin:  30px 30px 30px 30px;
+}
+
+main a {
+    
+    color: white;
+    background-color: red;
+    border: 4mm ridge red;
+
+}
+
+main table {
+    text-align: center;
+}
+
+footer {
+   
+    text-align: center;
+   background-color:rgb(77, 77, 77);
+   font-family: Impact, fantasy;
+   padding: 30px 30px 30px 30px;
+   
+}
+
+footer a{
+    color: red;
+}
+
+footer a:focus{
+    color: greenyellow;
+}
+
+    footer a:visited{
+        color: navy;
+    }
+
+    footer img {
+        margin: 10px;
+    }
+     
+    footer img:hover {
+        opacity: 0.5;
+    }
