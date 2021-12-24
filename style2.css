@@ -1,0 +1,34 @@
+body {
+    font-family: monospace;
+    background-color:black;
+    text-align: center;
+    color: greenyellow;
+
+}
+
+header {
+    text-align: center;
+   background-color:rgb(77, 77, 77);
+   font-family: Impact, fantasy;
+   padding: 30px 30px 30px 30px;
+   justify-content: center;
+}
+
+.menu {
+    padding: 10px 10px 10px 10px;
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.menu table {
+    border: cyan;
+    text-align: center;
+    
+}
+
+.menu table td a:hover {
+  color: orange;
+}
